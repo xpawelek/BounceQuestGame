@@ -1,16 +1,20 @@
-BounceQuestGame
-![image](https://github.com/user-attachments/assets/ef56f53c-4a13-45df-afdf-9236fa79ea4c)
+# BounceQuestGame
 
-BounceQuestGame is a simple yet engaging Windows Forms application created as a project in middle school. The game revolves around bouncing a ball off a paddle to destroy blocks while navigating through multiple levels. Players can control the paddle using the left and right arrow keys, and they must avoid losing all their lives.
+**BounceQuestGame** is a simple yet engaging Windows Forms application developed as a project in middle school. The game centers around a bouncing ball that the player controls to destroy blocks while navigating through various levels. 
+
+![image](https://github.com/user-attachments/assets/f90d3050-3892-4b95-863c-2b62570ee451)
 
 
-Features
-Multiple levels with increasing difficulty
-Sound effects for game actions
-Visual feedback with changing backgrounds for each level
-Life system to keep track of player progress
-Responsive user interface built with Windows Forms
-Technologies Used
-C#
-Windows Forms
-SoundPlayer for audio effects
+## Features
+- **Multiple Levels**: Experience increasing difficulty across different levels.
+- **Sound Effects**: Enjoy audio feedback for various game actions.
+- **Visual Feedback**: Dynamic backgrounds that change with each level.
+- **Life System**: Track player progress with a life count.
+- **Responsive UI**: Built using Windows Forms for an intuitive user experience.
+
+## Technologies Used
+- C#
+- Windows Forms
+- SoundPlayer for audio effects
+
+Feel free to explore the code and contribute to the project!

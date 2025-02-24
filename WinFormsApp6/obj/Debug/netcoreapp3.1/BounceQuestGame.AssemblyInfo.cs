@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BounceQuestGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4944ebea4d79ba0233dc31355665e87f68899a0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c8748799ee18751790ee482e1365f97f183fd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BounceQuestGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BounceQuestGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

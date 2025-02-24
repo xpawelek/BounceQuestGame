@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FerretLib.WinForms/0.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/FerretLib.WinForms.dll": {}
+        },
+        "runtime": {
+          "lib/FerretLib.WinForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FerretLib.WinForms/0.4.0": {
+      "sha512": "mN9lLCkJEGF1956DBvvBvdrTKAmip5wZgNhyHd+SZd1HeCugfuN4y7kF7ag9WqXJm/W+/Kju/3RiJHDl+Ve06g==",
+      "type": "package",
+      "path": "ferretlib.winforms/0.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ferretlib.winforms.0.4.0.nupkg.sha512",
+        "ferretlib.winforms.nuspec",
+        "lib/FerretLib.WinForms.dll",
+        "lib/FerretLib.WinForms.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FerretLib.WinForms >= 0.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pault\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pault\\Downloads\\WinFormsApp6 (10) (1)\\WinFormsApp6\\WinFormsApp6\\BounceQuestGame.csproj",
+      "projectName": "BounceQuestGame",
+      "projectPath": "C:\\Users\\pault\\Downloads\\WinFormsApp6 (10) (1)\\WinFormsApp6\\WinFormsApp6\\BounceQuestGame.csproj",
+      "packagesPath": "C:\\Users\\pault\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pault\\Downloads\\WinFormsApp6 (10) (1)\\WinFormsApp6\\WinFormsApp6\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pault\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "FerretLib.WinForms": {
+            "target": "Package",
+            "version": "[0.4.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FerretLib.WinForms 0.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "FerretLib.WinForms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

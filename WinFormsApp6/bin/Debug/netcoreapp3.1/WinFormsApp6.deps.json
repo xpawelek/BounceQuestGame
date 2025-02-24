@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsApp6/1.0.0": {
+        "dependencies": {
+          "FerretLib.WinForms": "0.4.0"
+        },
+        "runtime": {
+          "WinFormsApp6.dll": {}
+        }
+      },
+      "FerretLib.WinForms/0.4.0": {
+        "runtime": {
+          "lib/FerretLib.WinForms.dll": {
+            "assemblyVersion": "1.0.0.26422",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FerretLib.WinForms/0.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mN9lLCkJEGF1956DBvvBvdrTKAmip5wZgNhyHd+SZd1HeCugfuN4y7kF7ag9WqXJm/W+/Kju/3RiJHDl+Ve06g==",
+      "path": "ferretlib.winforms/0.4.0",
+      "hashPath": "ferretlib.winforms.0.4.0.nupkg.sha512"
+    }
+  }
+}

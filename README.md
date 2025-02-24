@@ -17,4 +17,3 @@
 - Windows Forms
 - SoundPlayer for audio effects
 
-Feel free to explore the code and contribute to the project!
